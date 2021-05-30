@@ -10,5 +10,7 @@ The project is developed using create-react-native-app.
 To run the project, navigate to the root directory
 
 1. install all project dependencies with `npm install`
-2. start the development server with `npm start`
+2. start the development server with `expo start`
+
+To run app on iOS, use command `expo start --ios`
 The project is tested on iPhoneX 12.2 simulator
